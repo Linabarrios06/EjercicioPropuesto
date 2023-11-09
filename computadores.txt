@@ -1,0 +1,23 @@
+[
+  {
+    "Ambiente": "103a",
+    "ID": 1234,
+    "Cargador": "si",
+    "Mouse": "no",
+    "Novedad": "ninguno"
+  },
+  {
+    "Ambiente": "103a",
+    "ID": 4321,
+    "Cargador": "si",
+    "Mouse": "si",
+    "Novedad": "mouse golpeado"
+  },
+  {
+    "Ambiente": "103a",
+    "ID": 6789,
+    "Cargador": "no",
+    "Mouse": "no",
+    "Novedad": "pantall rota"
+  }
+]
